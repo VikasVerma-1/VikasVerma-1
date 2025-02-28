@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 I am Vikas Verma, Software Developer</h2>
+<h2 align="Center">Hi 👋 I am Vikas Verma, Software Developer</h2>
 
 ###
 [![GitHub Streak](https://streak-stats.demolab.com?user=VikasVerma-1)](https://git.io/streak-stats)
