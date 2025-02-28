@@ -1,8 +1,9 @@
-<h2 align="Center">Hi 👋 I am Vikas Verma, Software Developer</h2>
+<h2 align="center">Hi 👋 My Name is Vikas Verma, and I am a Software Developer</h2>
 
 ###
+<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=VikasVerma-1)](https://git.io/streak-stats)
-###
+</div>
 
 
 ###
