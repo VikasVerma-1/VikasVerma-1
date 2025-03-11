@@ -46,7 +46,7 @@
 
  ######
  
-<div align="left">
+<div align="center">
   <a href="https://leetcode.com/u/VikasVerma1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Leetcode&logo=slack&label=&color=FD9020&logoColor=blac&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
   </a>
