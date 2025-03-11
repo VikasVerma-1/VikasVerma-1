@@ -63,9 +63,7 @@
 </div>
 
 ###
-
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/Code-Mars/Code-Mars/output/snake.svg" alt="Snake animation" />
 
 ###
