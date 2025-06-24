@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋 My Name is Vikas Verma, and I am a Software Developer</h2>
+<h2 align="center">Hi 👋 My Name is Vikas Verma </h2>
 
 
 ###
